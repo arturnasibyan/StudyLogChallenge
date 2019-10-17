@@ -1,0 +1,9 @@
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\bin\Debug\StudyLogCodingTest.exe.config
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\bin\Debug\StudyLogCodingTest.exe
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\bin\Debug\StudyLogCodingTest.pdb
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\obj\Debug\StudyLogCodingTest.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\obj\Debug\StudyLogCodingTest.Form1.resources
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\obj\Debug\StudyLogCodingTest.Properties.Resources.resources
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\obj\Debug\StudyLogCodingTest.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\obj\Debug\StudyLogCodingTest.exe
+C:\Users\Artur\Desktop\StudyLogCodingTest\StudyLogCodingTest\obj\Debug\StudyLogCodingTest.pdb
